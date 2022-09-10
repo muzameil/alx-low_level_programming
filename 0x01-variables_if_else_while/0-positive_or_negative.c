@@ -1,7 +1,7 @@
 #include <stdlib.h>
 #include <time.h>
 #include<stdio.h>
-"files.trimTrailingWhitespace": true
+
 /**
 *main Entry-point
 *
@@ -23,9 +23,7 @@ else if (n > 0)
 printf("%i is positive\n", n);
 }
 else 
-{
 printf("%i is negative\n", n);
-}
 /*Returns if true:*/
 return (0);
 }
