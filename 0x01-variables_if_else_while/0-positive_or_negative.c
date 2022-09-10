@@ -1,7 +1,7 @@
 #include <stdlib.h>
 #include <time.h>
 #include<stdio.h>
-
+"files.trimTrailingWhitespace": true
 /**
 *main Entry-point
 *
