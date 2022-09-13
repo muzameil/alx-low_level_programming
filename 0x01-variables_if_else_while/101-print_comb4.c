@@ -9,6 +9,7 @@ int main(void)
 	int f_d;
 	int m_d;
 	int l_d;
+	
 	while (c <= 999)
 	{
 		f_d = (c / 100 + '0');
